@@ -1,8 +1,11 @@
 {
-  "name": "@gatsby-contrib/gatsby-plugin-elasticlunr-search",
+  "name": "@kkhs/gatsby-plugin-elasticlunr-search",
   "version": "2.2.1",
   "description": "Search for gatsby; implemented via elasticlunr.",
   "main": "n/a",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "babel src --out-dir .",
     "build:watch": "babel src --watch --out-dir .",
