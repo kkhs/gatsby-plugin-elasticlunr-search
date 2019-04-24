@@ -1,5 +1,5 @@
 {
-  "name": "@kkhs/gatsby-plugin-elasticlunr-search",
+  "name": "@kakehashi/gatsby-plugin-elasticlunr-search",
   "version": "2.2.1",
   "description": "Search for gatsby; implemented via elasticlunr.",
   "main": "n/a",
